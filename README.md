@@ -1,5 +1,6 @@
 # Robot-Will: your reading companion
 
+![node_graph](assets/Will.jpg)
 
 ## Inspiration
 
